@@ -1,0 +1,8 @@
+PyPDF2
+watchdog
+xlsxwriter
+pywinauto
+pyperclip
+psutil
+pyautogui
+pywin32
