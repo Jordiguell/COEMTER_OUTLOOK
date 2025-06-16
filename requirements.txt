@@ -1,0 +1,5 @@
+PyPDF2
+watchdog
+xlsxwriter
+pywinauto
+pyperclip
